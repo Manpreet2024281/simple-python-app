@@ -6,4 +6,5 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    return a * b + 1  # Slightly different implementation to cause a conflict
+    return a * b - 1
+
